@@ -1,1 +1,1 @@
-some text from second feature
+some text from first feature
